@@ -1,1 +1,3 @@
-# MIPS-kompajler
+# MAVN-kompajler
+Predmetni projekat iz Sistemske programske podrške 1 u kome je napravljen prevodilac iz MAVN jezika u MIPS 32bit asemblerski jezik. Program je napisan u C++ jeziku.
+MAVN (Mips Asembler Visokog Nivoa) je alat koji prevodi program napisan na višem MIPS 32bit asemblerskom jeziku na osnovni asemblerski jezik. Viši MIPS 32bit asemblerski jezik služi lakšem asemblerskom programiranju jer uvodi koncept registarske promenljive. Registarske promenljive omogućavaju programerima da prilikom pisanja instrukcija koriste promenljive umesto pravih resursa. Ovo znatno olakšava programiranje jer programer ne mora da vodi računa o korišćenim registrima i njihovom sadržaju.
