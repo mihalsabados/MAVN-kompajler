@@ -1,0 +1,13 @@
+_mem m1 6;
+_mem m2 5;
+
+_reg r1;
+_reg r2;
+_reg r3;
+
+_func main;
+	la		r1, m1;
+	la		r2, m2;
+	or		r1, r1, r2;
+	mult	r2, r1;
+	seq		r3, r1, r2;
